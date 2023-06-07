@@ -1,4 +1,4 @@
-ACTUAL="snproxy"
+ACTUAL="sungit"
 read -s -p "Password: " enteredpass
 echo ""
 
