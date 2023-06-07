@@ -1,4 +1,4 @@
-ACTUAL="snproxy"
+ACTUAL="JL"
 read -s -p "Password: " enteredpass
 echo ""
 
