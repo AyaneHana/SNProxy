@@ -1,4 +1,4 @@
-ACTUAL="sungit"
+ACTUAL="n"
 read -s -p "Password: " enteredpass
 echo ""
 
