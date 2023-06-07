@@ -1,4 +1,4 @@
-ACTUAL="JL"
+ACTUAL="rebiscutt"
 read -s -p "Password: " enteredpass
 echo ""
 
