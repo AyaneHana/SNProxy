@@ -1,4 +1,4 @@
-ACTUAL="n"
+ACTUAL="spyky"
 read -s -p "Password: " enteredpass
 echo ""
 
