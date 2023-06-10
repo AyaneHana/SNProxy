@@ -1,4 +1,4 @@
-ACTUAL="domdie"
+ACTUAL="resellban"
 read -s -p "Password: " enteredpass
 echo ""
 
