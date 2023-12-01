@@ -1,4 +1,4 @@
-ACTUAL="resellban"
+ACTUAL="4.43 resell=ban"
 read -s -p "Password: " enteredpass
 echo ""
 
