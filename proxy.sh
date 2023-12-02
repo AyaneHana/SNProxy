@@ -1,4 +1,4 @@
 ACTUAL="4.43 resell=ban"
 read -s -p "Password: " enteredpass
 echo ""
-[ "$enteredpass" != "$ACTUAL" ] && echo "Sorry" && echo "exiting" || pkg install openssl curl figlet -y && rm install.sh && wget https://raw.githubusercontent.com/AyaneHana/CBProxy/main/install.sh && bash install.sh
+[ "$enteredpass" != "$ACTUAL" ] && echo "Sorry" && echo "exiting" || pkg install openssl curl figlet -y && wget https://raw.githubusercontent.com/AyaneHana/CBProxy/main/install.sh && bash install.sh
